@@ -1,0 +1,14 @@
+Sunny,Warm,Normal,Strong,Warm,Same,Yes
+Sunny,Warm,High,Strong,Warm,Same,Yes
+Rainy,Warm,High,Strong,Warm,Change,No
+Sunny,Warm,High,Strong,Cool,Change,Yes
+Cloudy,Warm,High,Strong,Cool,Same,Yes
+Rainy,Warm,Less,Strong,Warm,Change,No
+Cloudy,Warm,Normal,Week,Cool,Change,Yes
+Sunny,Warm,Normal,Strong,Warm,Same,No
+Rainy,Warm,High,Week,Cool,Same,Yes
+Cloudy,Warm,Less,Week,Warm,Change,Yes
+Sunny,Warm,Less,Week,Cool,Same,No
+Sunny,Warm,Normal,Week,Cool,Change,Yes
+Cloudy,Warm,Normal,Strong,Warm,Change,Yes
+Rainy,Warm,High,Strong,Warm,Same,Yes
